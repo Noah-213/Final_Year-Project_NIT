@@ -9,3 +9,5 @@ The system demonstrates 99%+ detection accuracy while integrating seamlessly wit
 
 This work provides an open, extensible blueprint for next-generation API security, bridging machine learning innovation with operational pragmatism.
 KEYWORDS: API security, Web Application Firewall, Machine Learning, Containerization, SIEM, Feature Engineering, Hybrid Detection, Operational Monitoring
+
+Authors: BENNOUAR Tarek & HANI Nour El Houda
